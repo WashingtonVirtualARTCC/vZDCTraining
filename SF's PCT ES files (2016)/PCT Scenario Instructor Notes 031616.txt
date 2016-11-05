@@ -1,0 +1,344 @@
+Instructors/mentors:
+
+This is to be used as a guide for running the PCT training files. Included is a general breakdown of how the file runs
+and what to expect. If there are any issues/problems with the files, please email ta@vzdc.org with the file name, so it
+can be fixed. 
+
+Remember for ALL departures, the system defaults the initial altitude to 7000, so it must be changed before clearing them 
+for takeoff, or they'll blow the initial altitude.
+
+
+
+___________________________________
+CHP files:
+3/13/16: TERPZ/CONLE departures updated. ANTHM arrival west ops waypoints corrected. 
+
+
+__________________________________
+
+CHP W Easier Intro SFv3: (3/13/16) 
+
+Landing 33L/33R, departing 28/33R. No satellite ops or VFR.
+
+17 BWI arrivals, 10 BWI departures. 7 DCA arrivals (3 SKILZ, 2 CLIPR, 2 DEALE). 2 DCA departures (1 to JERES, 1 to PALEO 
+at 9k). 
+Workload: light to moderate, occasionally difficult. 
+
+Designed to be a true "first radar session" file, with a slower pace and less traffic than the W medium file. 
+Removed a few aircraft from each arrival stream and extended out the delay times, so it should be a very gentle 
+intro file so the students can feel out the airspace and the procedures. 
+
+DCA landing NORTH. 
+
+1 turboprop arrival for 33R, not til later in the file, for the student to play with. 
+
+Update 1/20/16: increased intervals for arrivals.
+
+
+
+_________________________________
+
+
+
+
+CHP E Easier Intro SFv2: (3/13/16) 
+
+Landing 10/15L, departing 15L/15R. No satellite ops or VFR.
+
+16 BWI arrivals, 10 BWI departures, 2 DCA departures (same as above), and several DCA arrivals. 
+Workload: light to moderate, occasionally difficult. 
+
+Same rundown as W easier intro file, just in east ops. 
+
+DCA landing SOUTH. 
+
+
+
+________________________________
+
+
+
+
+CHP W Medium SFv3 (replaces Intro V1): (3/13/16) 
+
+Landing 33L/33R, departing 28/33R. No satellite ops. 
+
+23 arrivals, 10 departures, 9 overflights (2 CLIPR, 2 DEALE, 3 SKILZ, 1 DCA dep going to JERES, 1 DCA dep going to 
+PALEO at 9k). 1 VFR transition NW to SE. 1 VFR arrival from east. Steady but not overwhelming pace, instructors can 
+modify delays if needed. A bit quicker tempo with more traffic than the easier intro. 
+
+Workload: Moderate to heavy, occasionally to mostly difficult.
+
+DCA arrivals are set to DCA landing NORTH, brief student on MTV flow before start of session.
+
+Updated arrivals to current numbers. ANTHM2 track changed from ANTHM1, OLBAY intersection not in sector file, used 
+another close WP but should simulate it nicely enough. Also have a few RIPKN arrivals just for giggles. 
+
+Added a couple prop/turboprop arrivals so students can sequence for 33L and 33R approaches. 
+
+Added additional departures, updated routes and added a few CONLE departures. Aircraft that are r/v DAILY should 
+make the turn at 3DME now and fly heading 150 until the student sends them to DAILY. No FIXETs. 
+
+Update 1/20/16: intervals tweaked a bit. 
+
+_____________________________________
+
+
+
+CHP E Medium SFv2: (3/13/16) 
+
+Landing 10/15L, departing 15L/15R. 
+
+Workload: moderate to heavy, occasionally to mostly difficult. 
+
+Same as the west ops medium file, just in east flow. Also added a DCA arrival on V308 that needs to be vectored to DEALE 
+(is set in waypoints to send direct to DEALE). 
+
+DCA landing SOUTH. 
+
+
+
+______________________________________
+
+
+CHP W with Satellites SFv2: (3/13/16) 
+
+BWI: Landing 33L, dep 28. W29: arr/dep 29, DMW: arr/dep 34. 
+
+Updated version of old CHP W intro file.
+
+Workload: Moderate to heavy. Occasional to very difficult. 
+
+19 BWI arr (1 VFR), 2 DMW arr, 1 W29 arr, 6 BWI deps, 1 DMW dep, 1 W29 dep, 1 VFR transition (N to S, will roam through east side 
+of finals and through DAILY gate) VFR aircraft will have no info, needs to have strip made. Couple SKILZ/DEALE arrivals.
+Obligatory DCA departure headed to JERES, and another going to PALEO at 5k.
+
+DCA landing NORTH. 
+
+
+
+_______________________________________
+
+
+
+
+NEC_CLIPR and NEC_DEALE (1/28/16)
+
+Situation file designed for CHP controllers working the Northeastern Corridor event, can be used anytime though. 
+Designed to be sector dependent (WOOLY for CLIPR file, BWIFS/GRACO for DEALE file). Not both at the same time. 
+
+Occasional to mostly difficult, moderate traffic load. 
+
+Mainly designed to evaluate sequencing skills (altitude, speed restriction, etc) as well as hold clearances. 
+
+DCA set up to be landing SOUTH. 
+
+NO BWI arrival traffic. 
+
+CLIPR: 12 CLIPR arrivals, 5 SKILS arrivals to be blended, 2 coming down MXE V378 BAL. 
+Holds in file at SKILS, TRISH, and ENSUE (on V378) as published. Pretty high intensity file.
+
+DEALE: 9 DEALE arrivals, 4 coming down ATR V308 BILIT, and 6 overflow's from the north sent by WOOLY due to heavy
+traffic. 
+
+Holds in file at BILIT as published.
+
+Non-DEALE arrivals will track V308 all the way to OTT. DEALE is next fix after OTT in their sim route to make life easier
+to send direct if needed. 
+WOOLY overflows will enter on a 170 heading, level at 10k (jets) or 6k (props). Jets can be assigned the DEALE arrival
+starting at BILIT if the student so desires (set in the file), but will track way south before sequencing to BILIT, so 
+they need to be given direct to BILIT and will join. This file might be harder than CLIPR. 
+
+
+
+
+
+
+
+
+
+
+
+____________________________________________
+
+
+SHD Files:
+
+3/13/16: WOOLY1 departure added. CAVLR3 updated. 
+PRIVO, DELRO, SEG, and MAPEL arrivals updated w/ correct fixes.
+No holds in any of the SHD files right now. My next project.-SF
+
+_____________________________________________
+
+SHD N easier SFv1 (3/13/16)
+
+Landing 1L/C/R, Departing 1C/30
+
+18 arrivals, 13 departures, with a little bit of everything. 
+
+Workload: Easy to moderate, occasionally difficult. 
+
+Easy intro for SHD N ops airspace. 
+No VFR, no satellite traffic. Each charted arrival (except WIGOL) has at least 1 arrival. 
+HYPER/LEGGO arrivals will all transition down the east side (1R). MAPEL arrivals will transition down the west side (1C/1L) 
+Of course, they can give them any runway but they have to fly that transition. Brief the student before the session. 
+BULRN arrivals will fly a ~270 heading after departures, and expect radar vectors to CIIVL (or better in practice, BULRN, 
+since CIIVL sits 8 miles south of the 1C extended centerline and can get in the way if not climbed fast enough.)
+JCOBY departures will fly heading (roughly) as per SID and expect vectors to RIGNZ. Same with MCRAY/JERES RNAV deps.
+CAP9 will be roughly on heading per tower SOP, need manual steering through charlie gate on our end. 
+1L is enabled as an arrival runway for this file if the student needs/wants it for some reason. 
+All visual or ILS approaches, no aircraft are programmed to run any of the RNAV (although I guess you could do vectors to 
+final if you wanted to)
+
+
+_____________________________________________
+
+SHD S easier SFv1 (3/13/16)
+
+Landing 19L/C/R, departing 19L/30
+
+19 arrivals, 13 departures. 
+
+Workload: easy to moderate, occasionally difficult
+
+Easier intro for SHD S ops airspace. No VFR, no satellite, all visual or ILS (unless vector to final for RNAV). 
+No WIGOL arrival. 
+HYPER arrivals will be on 19L transition. MAPEL/LEGGO arrivals are on 19C transition. 
+CAP9 departures off of 19L will fly heading 250-ish per tower SOP, need vector/manual steering through charlie gate, 
+cannot be sent direct SWANN on our end.
+
+____________________________________________
+
+
+
+SHD N Medium SFv1 (replaces SHD N Intro SFv3): (3/13/16)
+
+Landing 1L/C/R, Departing 1C/30
+
+27 arrivals, 13 departures, with a good mix of jet, turboprop, and GA prop.
+
+Workload: Moderate to heavy. Occasional to very difficult depending on how you tweak it. 
+
+Increased tempo from easier file, a more realistic scenario of IAD arrival/departures. Student should already have good foundation w/ CHP cert. 
+No VFR, no satellite traffic. Each charted arrival (except WIGOL) has at least 1 arrival. 
+HYPER/LEGGO arrivals will all transition down the east side (1R). MAPEL arrivals will transition down the west side (1C/1L) 
+Of course, they can give them any runway but they have to fly that transition. Brief the student before the session. 
+BULRN arrivals will fly a ~270 heading after departures, and expect radar vectors to CIIVL (or better in practice, BULRN, 
+since CIIVL sits 8 miles south of the 1C extended centerline and can get in the way if not climbed fast enough.)
+JCOBY departures will fly heading (roughly) as per SID and expect vectors to RIGNZ. Same with MCRAY/JERES RNAV deps.
+CAP9 will be roughly on heading per tower SOP, need manual steering through charlie gate on our end. 
+1L is enabled as an arrival runway for this file if the student needs/wants it for some reason. 
+All visual or ILS approaches, no aircraft are programmed to run any of the RNAV (although I guess you could do vectors to 
+final if you wanted to)
+
+
+________________________________________
+
+
+
+SHD S medium SFv1 (replaces SHD S intro SFv1): (3/13/16)
+
+Landing 19L/C/R, Departing 19L/30
+
+27 Arrivals, 13 Departures, same general variation as N intro.
+
+Workload: Moderate to heavy, occasional to very difficult. 
+
+Very similar speed and flow as N medium. No VFR, no satellite, all visual or ILS (unless vector to final for RNAV). 
+No WIGOL arrival. 
+HYPER arrivals will be on 19L transition. MAPEL/LEGGO arrivals are on 19C transition. 
+CAP9 departures off of 19L will fly heading 250-ish per tower SOP, need vector/manual steering through charlie gate, 
+cannot be sent direct SWANN on our end.
+
+
+_________________________________________
+
+SHD N satellites SFv1: (3/13/16)
+
+IAD Landing 1C/R, departing 1C.
+HEF landing/departing 34R
+JYO landing/departing 17 (ILS/RNAV 17 in use for IAPs)
+
+IAD: 10 arrivals, 13 departures
+HEF: 6 arrivals  4 departures (1 VFR dep SE bound)
+---(HEF arrivals: some VFR, some IFR. One to the north thats VFR (N737XF), set up to go over IAD, can either pick up IFR 
+---and shoot RNAV 34R or just be a class B transition and go to HEF. VFR to the south (N907LF) that can do the same).
+JYO: 4 arrivals, 3 departures (1 VFR to the north that can just be a distraction or can get FF, 2 IFR)
+---(JYO arrivals: 1 to the west is VFR, can use as B transition and landing or can pick up and shoot RNAV/ILS 17. Notes in 
+---remarks section show what approach they're wishing for. Also one to the S that is VFR B transition, set to track
+---BRV to BARIN to AML to JYO. Should make some of the HEF arrivals interesting. RNAV 17 also has the hold in the file
+---if wanted/needed)
+
+Workload: moderate, occasional to very difficult. 
+
+Slowed down IAD, but a good bit of VFR and IFR into the satellites. Added a JRV sector to open for handoffs headed that way.
+Tried to set it up as "suicide" ops at JYO, with departures off of 35, but no luck.  
+
+
+
+
+
+
+
+
+
+____________________________________________
+MTV files:
+
+3/16/16: MTV S departures file added. 
+
+____________________________________________
+
+
+MTV N Intro SF V1: (1/26/16)
+
+Landing 1, departing 1/33, VKX landing 6. (Can use 33 as arrival if you really want to do the work, although there's only 
+maybe 1 or 2 that could take 33)
+
+17 arrivals, 7 departures, 1 satellite arrival (VKX), 3 BWI arrivals (2 RAVNN, 1 RIPKN)
+
+Workload: moderate, occasionally difficult. 
+
+BWI landing WEST (brief student)
+
+Updated RR N Intro file, w/ BILIT arrivals changed to DEALE, and updated a few other little things. Spaced out the timing 
+a bit more as well from the original file. 
+
+
+
+_____________________________________
+
+
+MTV S Intro SF V1: (1/26/16)
+
+Landing/departing 19/15. VKX landing 6. 
+
+21 arrivals, 8 departures , 2 satellite arrivals (VKX), 3 BWI arrivals (2 RAVNN, 1 RIPKN)
+
+Workload: moderate to heavy, occasional to mostly difficult.
+
+BWI landing EAST (brief student)
+
+Updated RR S Intro file w/ BILIT changed to DEALE, and some other tweaking. 
+CLIPR/SKILZ/DEALE arrivals will track a 325 heading after MEGGS well past NAYES if the student doesnt turn them.
+CAPSS/IRONS will do the same with an extended waypoint to keep the track. 
+FERGI was added as a last fix to CLIPR/SKILZ/DEALE/CAPSS/IRONS/NUMMY arrivals to make life easier for the operator
+to get aircraft inbound. Also allows student to clear them direct FERGI and clear them for the RNAV if desired. 
+Runway 15 added, so pretty much all DCA aircraft can just be given the "ILS 15" command and they'll track down the river. 
+If they land on 15....who cares? 
+
+____________________________________
+
+MTV S departures SFv1: (3/16/16)
+
+Departing 19/15 (DCA), 30 (DCA). DCA landing south.  
+
+22 DCA departures, 4 IAD departures, 6 DCA arrivals. 
+
+Workload: moderate, occasionally difficult.
+
+Departure file to orient students/visitors/etc to DCA departure flow. Multiple different departures including all the RNAV's
+and several NATNL departures requiring radar vectors. Also a few FRDMM arrivals (can use for missed approaches) and some CAPSS 
+arrivals (to show need to restrict to 5000 initially until clear of arrival stream). Also 4 IAD departures on the JCOBY 
+departure to highlight their climbout. JCOBY departures will fly the 320 heading per the DP until you turn them direct RIGNZ 
+and climb them to 10k. 
