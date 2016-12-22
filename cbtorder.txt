@@ -1,12 +1,12 @@
 Introduciton
 Weather
 Airspace
+Radio Communication
 Aircraft
 Airways and Routes
 SID
 IFR CLearances
 VFR Clearances
-Radio Communication
 Movement Areas
 Sequencing
 Ground COordination
